@@ -1,6 +1,5 @@
 # README.md
 
-````markdown
 # hyprview
 
 A Hyprland plugin that brings a **Niri‑style scrollable overview** to Hyprland.  
@@ -27,7 +26,6 @@ Zoom out to see all workspaces in a grid, drag windows between them, and navigat
 hyprpm add https://github.com/yourusername/hyprview
 hyprpm enable hyprview
 ```
-````
 
 Then restart Hyprland or reload plugins with `hyprpm reload`.
 
@@ -138,7 +136,3 @@ MIT License – see [LICENSE](LICENSE) file.
 ## Acknowledgments
 
 Inspired by [Niri](https://github.com/YaLTeR/niri) and the official Hyprland [`hyprexpo`](https://github.com/hyprwm/hyprland-plugins) plugin.
-
-```
-
-```
