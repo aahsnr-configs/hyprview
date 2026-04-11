@@ -1,0 +1,14 @@
+[repository]
+name = "hyprview"
+authors = ["Your Name"]
+commit_pins = [
+    # Example pin: ["<Hyprland-commit-hash>", "<hyprview-commit-hash>"],
+]
+
+[hyprview]
+description = "A Hyprland overview plugin with Niri-style scrolling"
+authors = ["Your Name"]
+output = "hyprview.so"
+build = [
+    "make all"
+]
